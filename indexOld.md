@@ -2,10 +2,8 @@
 layout: default
 ---
 
+[Home](/index.html) | [Contact Information](./contact.md) | [Resume](./resume.md)
 
-[Contact Information](./contact.md)
-
-[Resume](./resume.md)
 
 # Header 1
 

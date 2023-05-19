@@ -4,6 +4,8 @@ title: Contact
 description: Get in touch with me
 ---
 
+[Home](/index.html) | [Contact Information](./contact.md) | [Resume](./resume.md)
+
 # Contact Me
 
 I'm always happy to hear from you! Here are a few ways to get in touch:
